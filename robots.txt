@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap Lokasyonu (GitHub Pages domaininizi buraya yazın)
-Sitemap: https://kullaniciadi.github.io/sitemap.xml
+Sitemap: https://yasinemirkahya1122-del.github.io/Yasin-Emir-KAHYA-/sitemap.xml
